@@ -1,18 +1,18 @@
 {
-  "name": "use-lottie",
-  "version": "0.0.0",
+  "name": "v-lottie",
+  "version": "0.0.1",
   "packageManager": "pnpm@7.1.5",
   "description": "",
   "author": "MuRong <admin@imuboy.cn>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/murongg",
-  "homepage": "https://github.com/murongg/use-lottie#readme",
+  "homepage": "https://github.com/murongg/v-lottie#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murongg/use-lottie.git"
+    "url": "git+https://github.com/murongg/v-lottie.git"
   },
   "bugs": {
-    "url": "https://github.com/murongg/use-lottie/issues"
+    "url": "https://github.com/murongg/v-lottie/issues"
   },
   "keywords": [],
   "sideEffects": false,
